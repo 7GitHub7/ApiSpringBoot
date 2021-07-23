@@ -1,0 +1,1 @@
+INSERT INTO employee values (1, 'test','test','test')
